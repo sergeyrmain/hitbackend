@@ -1,3 +1,6 @@
+// Project Team:
+// - Sergey Artemeive (ID: 320689789)
+// - Ohad Yael (ID: 208544866)
 const mongoose = require('mongoose');
 
 const userSchema = new mongoose.Schema({
